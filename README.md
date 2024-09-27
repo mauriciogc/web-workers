@@ -15,6 +15,10 @@ En este proyecto, se realiza lo siguiente:
    - **Mínimo y máximo**.
 4. Se muestra un contador en la página que se actualiza cada segundo para demostrar cómo la interfaz sigue respondiendo mientras los cálculos se realizan en segundo plano utilizando **Web Workers**.
 
+## Versiones
+
+- [1.0.0](https://github.com/mauriciogc/web-workers/tree/1.0.0) - Esta versión incluye los cálculos mencionados en la descripción anteriormente mencionada.
+
 ## Requisitos
 
 - Navegador con soporte para **Web Workers**.
