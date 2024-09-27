@@ -17,7 +17,7 @@ En este proyecto, se realiza lo siguiente:
 
 ## Versiones
 
-- [1.0.0](https://github.com/mauriciogc/web-workers/tree/1.0.0) - Esta versión incluye los cálculos mencionados en la descripción anteriormente mencionada.
+- [1.0.0](https://github.com/mauriciogc/web-workers/tree/1.0.0) - Esta versión incluye los cálculos mencionados en la descripción anteriormente mencionada [Ver desde Codesandbox.io](https://codesandbox.io/p/sandbox/web-worker-example-3-up2qet).
 
 ## Requisitos
 
