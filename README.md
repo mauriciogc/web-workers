@@ -19,6 +19,8 @@ En este proyecto, se realiza lo siguiente:
 
 - [1.0.0](https://github.com/mauriciogc/web-workers/tree/1.0.0) - Esta versión incluye los cálculos mencionados en la descripción anteriormente mencionada [Ver desde Codesandbox.io](https://codesandbox.io/p/sandbox/web-worker-example-3-up2qet).
 
+- [2.0.0](https://github.com/mauriciogc/web-workers/tree/2.0.0) - Esta versión incluye los cálculos mencionados en la descripción anteriormente mencionada más un gráfico que se va moviendo en tiempo real[Ver desde Codesandbox.io](https://codesandbox.io/p/sandbox/web-worker-example-3-forked-f5p2pn?workspaceId=b0cbbc3f-2841-46e6-9d3f-b72a944d4bb9).
+
 ## Requisitos
 
 - Navegador con soporte para **Web Workers**.

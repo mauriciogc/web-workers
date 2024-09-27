@@ -1,19 +1,27 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Generación de Números Aleatorios y Estadísticas (Con Web Worker)</title>
+  <title>Web Workers con Gráfica</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Cargamos Chart.js desde CDN -->
+  <style>
+    canvas {
+      max-width: 500px;
+      max-height: 300px;
+      margin: 20px;
+    }
+  </style>
 </head>
 
 <body>
-  <h1>Resultados (Con Web Worker)</h1>
+  <h1>Datos en Tiempo Real</h1>
   <div id="incrementalNumber"></div>
+  <canvas id="myChart"></canvas>
   <p id="send"></p>
   <p id="result"></p>
-
-  <script src="main.js"></script>
+  <script src="main.js"></script> <!-- Cargamos el archivo principal -->
 </body>
 
 </html>
