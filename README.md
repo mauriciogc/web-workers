@@ -34,7 +34,6 @@ En este proyecto, se realiza lo siguiente:
 1. Clona este repositorio:
 
    ```bash
-   Copiar código
    https://github.com/mauriciogc/web-workers.git
    ```
 
